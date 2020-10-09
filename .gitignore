@@ -1,0 +1,15 @@
+vendor/
+.idea/
+.vscode/
+/coverage/
+/vendor/
+/logs/*
+!/logs/README.md
+.phpunit.result.cache
+composer.lock
+deploy.sh
+installer
+_bootswatch.scss
+_variables.scss
+_style.css
+composer.phar

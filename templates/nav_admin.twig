@@ -1,0 +1,23 @@
+{#% extends 'layout.twig' %#}
+
+{% block nav %}
+<!-- <button type="button" class="btn btn-primary btn-sm mr-5" data-toggle="modal" data-target="#exampleModalCenter">
+  Create new article
+</button> -->
+
+<span class="navbar-text">
+{{curl_result.username}} (Admin)
+</span>
+
+{% if page_name == 'dashboard' %}
+<form method="post" action="{{path_for('leaveDash')}}"><button class="btn btn-primary btn-sm ml-3">Site view</button></form>
+{% else %}
+<form method="post" action="{{path_for('dash')}}"><button class="btn btn-primary btn-sm ml-3">Dashboard</button></form>
+{% endif %}
+
+<!-- <form method="post" action="dash"><button>Dashboard</button></form> -->
+
+<form method="post" action="{{path_for('disconnect')}}"><button class="btn btn-primary btn-sm mx-1">Disconnect</button></form>
+
+
+{% endblock %}
