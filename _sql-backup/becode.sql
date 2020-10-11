@@ -54,7 +54,6 @@ CREATE TABLE "public"."comments" (
 ) WITH (oids = false);
 
 INSERT INTO "comments" ("id", "author_id", "article_id", "content", "date") VALUES
-(5,	5,	8,	'Suspendisse potenti. Quisque id libero ligula. Aliquam bibendum orci et consequat faucibus. Nam consectetur ex sit amet nulla tristique accumsan. ',	'09/10/20'),
 (6,	5,	8,	'Suspendisse potenti. Quisque id libero ligula. Aliquam bibendum orci et consequat faucibus. Nam consectetur ex sit amet nulla tristique accumsan. ',	'09/10/20');
 
 DROP TABLE IF EXISTS "labels";
@@ -86,8 +85,8 @@ CREATE TABLE "public"."users" (
 INSERT INTO "users" ("id", "username", "password", "label_id") VALUES
 (4,	'Louis',	'$2y$10$roIxStO3oFUYxkM4VOCKRORD8jPsFiH0DALvFC0fo8ipNQY/g1HBq',	3),
 (1,	'Joé',	'$2y$10$AdsFAkBwIHgVdNfT5IdUtOxKFsyWvhqluW3zI/1oPZev.XyhGak6u',	2),
-(3,	'Mathieu',	'$2y$10$LxlwjD1FXjETb77KcL7WxeS3Xdm5wwwPgydGFIYdkEYQPlmPtm6iu',	2),
 (2,	'Vincent',	'$2y$10$J43vAL83hfVmuE33bhM6NOo2RXQOFMmokH3P2xBIeVJFFp.5Z/YZW',	2),
-(5,	'Raigyo',	'$2y$10$AlbmS9ODNTpsM2rESzgbReXCFIvqgfhDProNebVa04hFbTTnMTnoe',	3);
+(5,	'Raigyo',	'$2y$10$AlbmS9ODNTpsM2rESzgbReXCFIvqgfhDProNebVa04hFbTTnMTnoe',	3),
+(3,	'Matthieu',	'$2y$10$LxlwjD1FXjETb77KcL7WxeS3Xdm5wwwPgydGFIYdkEYQPlmPtm6iu',	2);
 
--- 2020-10-09 15:27:41.553389+00
+-- 2020-10-11 14:02:18.301233+00

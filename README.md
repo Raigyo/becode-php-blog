@@ -9,7 +9,7 @@
 
 * * *
 
-![Becode logo](img-readme/blog-php.jpg)
+![capture](img-readme/blog-php.jpg)
 
 ## UPDATE OCTOBER 2020: To use the application locally
 
