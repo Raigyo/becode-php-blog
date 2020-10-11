@@ -9,7 +9,7 @@
 
 * * *
 
----------------------------
+![Becode logo](img-readme/blog-php.jpg)
 
 ## UPDATE OCTOBER 2020: To use the application locally
 
@@ -84,7 +84,7 @@ CSS have to be in:
 
 - [Louis Cantinieaux](https://github.com/LouisCantinieaux)
 - [Vincent Chilot](https://github.com/Raigyo)
-- [Mathieu Jasselette](https://github.com/MatthieuJasselette)
+- [Matthieu Jasselette](https://github.com/MatthieuJasselette)
 - [Joé Michel](https://github.com/joe-michel)
 
 ## Goal of the exercice
