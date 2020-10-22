@@ -11,7 +11,7 @@
  require __DIR__ . '/../vendor/autoload.php';
 
 // Application settings - table that has to be in variable
-$settings = require __DIR__ . '/../app/settings2.php';
+$settings = require __DIR__ . '/../app/settings.php';
 
 // call of the Slim application using its namespace
 //instanciation using the object settings as argument.

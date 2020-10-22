@@ -14,10 +14,10 @@ return [
             ],
             // Database connection settings
             'db' => [
-                'host' => '5432',
-                'dbname' => 'becode',
-                'user' => 'becode',
-                'pass' => 'becode'
+                'host' => 'XXXXXXXX',
+                'dbname' => 'XXXXXXXX',
+                'user' => 'XXXXXXXX',
+                'pass' => 'XXXXXXXX'
             ]
         ],
 ];
