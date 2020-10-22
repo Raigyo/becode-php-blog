@@ -226,3 +226,5 @@ Landing page, launch bootstrap and the application.
 [Slim documentation](http://www.slimframework.com/docs/)
 
 [The workshop of Marco De Bona and Valentin Grégoire from Becode/Hamilton about Bash and scripting](https://github.com/AnarionBe/BashIt)
+
+
