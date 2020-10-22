@@ -11,7 +11,7 @@
  require __DIR__ . '/../vendor/autoload.php';
 
 // Application settings - table that has to be in variable
-$settings = require __DIR__ . '../app/settings.php';
+$settings = require __DIR__ . '/../app/settings2.php';
 
 // call of the Slim application using its namespace
 //instanciation using the object settings as argument.
@@ -19,7 +19,7 @@ use Slim\App;
 $app = new Slim\App( $settings );
 
 // Add our dependencies to the container
-require __DIR__ . '../app/dependencies.php';
+require __DIR__ . '/../app/dependencies.php';
 
 // Require our route
-require __DIR__ . '../app/routes.php';
+require __DIR__ . '/../app/routes.php';
