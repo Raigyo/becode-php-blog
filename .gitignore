@@ -6,7 +6,6 @@ vendor/
 /logs/*
 !/logs/README.md
 .phpunit.result.cache
-composer.lock
 deploy.sh
 installer
 _bootswatch.scss
