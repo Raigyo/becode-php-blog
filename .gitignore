@@ -13,3 +13,5 @@ _bootswatch.scss
 _variables.scss
 _style.css
 composer.phar
+
+settings.php

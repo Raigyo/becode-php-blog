@@ -13,6 +13,8 @@
 
 ## UPDATE OCTOBER 2020: To use the application locally
 
+Use [local-version](https://github.com/Raigyo/becode-php-blog/tree/local-version) branch.
+
 ### Prerequisite
 
 You will need already installed:
