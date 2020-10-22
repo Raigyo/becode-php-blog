@@ -14,4 +14,4 @@ _variables.scss
 _style.css
 composer.phar
 
-settings.php
+app/settings.php

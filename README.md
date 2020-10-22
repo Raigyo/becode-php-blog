@@ -225,6 +225,7 @@ Landing page, launch bootstrap and the application.
 
 ## Sources and documentation
 
-[Slim documentation](http://www.slimframework.com/docs/)
-
-[The workshop of Marco De Bona and Valentin Grégoire from Becode/Hamilton about Bash and scripting](https://github.com/AnarionBe/BashIt)
+- [Slim documentation](http://www.slimframework.com/docs/)
+- [The workshop of Marco De Bona and Valentin Grégoire from Becode/Hamilton about Bash and scripting](https://github.com/AnarionBe/BashIt)
+- [Postgres Database On Heroku](https://docs.appery.io/docs/apiexpress-databaseconnection-heroku-postgres)
+- [Getting Started with Heroku, Postgres and PgAdmin ](https://medium.com/@vapurrmaid/getting-started-with-heroku-postgres-and-pgadmin-run-on-part-2-90d9499ed8fb)
