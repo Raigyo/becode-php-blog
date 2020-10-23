@@ -5,11 +5,15 @@
 
 *March 2019 (update: October 2020)*
 
-> 🔨 client server application using PHP that allows users to post articles, comment them or delete them according their user rights.
+> 🔨 Client server application using PHP that allows users to post articles, comment them or delete them according their user rights.
 
 * * *
 
-![capture](img-readme/blog-php.jpg)
+See demo on [Heroku](https://becode-php-blog.herokuapp.com/).
+
+![capture](img-readme/blog-php-2.jpg)
+
+![capture](img-readme/blog-php-3.jpg)
 
 ## UPDATE OCTOBER 2020: To use the application locally
 
@@ -27,7 +31,7 @@ You will need already installed:
 
 ### Launch the app:
 
-- Clone
+- Clone the [ocal-version](https://github.com/Raigyo/becode-php-blog/tree/local-version)
 
 - run: `composer install` or `composer update`.
 
