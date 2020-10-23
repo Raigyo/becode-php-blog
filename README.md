@@ -11,9 +11,9 @@
 
 See demo on [Heroku](https://becode-php-blog.herokuapp.com/).
 
-![capture](img-readme/blog-php-2.jpg)
+![capture](img-readme/blog-php-2.png)
 
-![capture](img-readme/blog-php-3.jpg)
+![capture](img-readme/blog-php-3.png)
 
 ## UPDATE OCTOBER 2020: To use the application locally
 
