@@ -31,7 +31,7 @@ You will need already installed:
 
 ### Launch the app:
 
-- Clone the [ocal-version](https://github.com/Raigyo/becode-php-blog/tree/local-version)
+- Clone the [local-version](https://github.com/Raigyo/becode-php-blog/tree/local-version)
 
 - run: `composer install` or `composer update`.
 
